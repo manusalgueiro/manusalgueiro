@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manusalgueiro
-- 👀 I’m interested in C/C++
+- 👀 I’m interested in C/C++ and Ruby
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on C/C++ projects
+- 💞️ I’m looking to collaborate on C/C++ projects and RoR projects
 - 📫 How to reach me manusalgueiro@outlook.com
 
 <!---
